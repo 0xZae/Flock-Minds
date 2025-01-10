@@ -1,0 +1,4 @@
+[dev-dependencies]
+criterion = "0.4"
+mockall = "0.11"
+test-log = "0.2"
